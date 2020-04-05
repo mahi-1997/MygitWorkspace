@@ -1,3 +1,19 @@
+********Connection *************
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+***
+After creating repo on remote i.e github server
+
+…or create a new repository on the command line
+echo "# MygitWorkspace" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/mahi-1997/MygitWorkspace.git
+git push -u origin master
+
+
 Here I'm trying to lear different git command
 1. git init
    To initialise a repository
@@ -8,7 +24,30 @@ Here I'm trying to lear different git command
 4. git rm --cached <file>
    To remove file from staged area but it will be not deleted from Local repo
 5. git rm -f <file>
-   Remove completly from local also
+   Remove completly from local also Please don't use
+6. Commit 
+   git commit -m "This is my first commit!"
+7. Branch
+   new branch & switch
+   git checkout -b <newbranch>
    
+   switch
+   git checkout <branchname>
+
+
+
+
+9. Pushing a branch 
+   git push origin my-new-branch
+   git push -u origin master
+
+   then request PR
+   
+
+9. Merge (merges parent and child branch)
+   git merge 
+   (from master side)
+
+
 
 
