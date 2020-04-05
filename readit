@@ -42,11 +42,16 @@ Here I'm trying to lear different git command
    git push -u origin master
 
    then request PR
-   
+
 
 9. Merge (merges parent and child branch)
    git merge 
    (from master side)
+
+10. Pull request
+
+11. Push the changes
+
 
 
 
