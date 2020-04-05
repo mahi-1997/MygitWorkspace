@@ -51,8 +51,12 @@ Here I'm trying to lear different git command
    (from master side)
 
 10. Pull request
+    git pull origin master
+    git pull
 
 11. Push the changes
+    git push
+    
 
 
 
