@@ -1,3 +1,8 @@
+********Connection *************
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+
 Here I'm trying to lear different git command
 1. git init
    To initialise a repository
@@ -8,7 +13,8 @@ Here I'm trying to lear different git command
 4. git rm --cached <file>
    To remove file from staged area but it will be not deleted from Local repo
 5. git rm -f <file>
-   Remove completly from local also
-   
-
+   Remove completly from local also Please don't use
+6. Commit 
+   git commit -m "This is my first commit!"
+7. Branch
 
