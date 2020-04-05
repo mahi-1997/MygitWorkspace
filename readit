@@ -1,0 +1,14 @@
+Here I'm trying to lear different git command
+1. git init
+   To initialise a repository
+2. git status
+   Show status of current repo
+3. git add <filename>
+   To add file to commit
+4. git rm --cached <file>
+   To remove file from staged area but it will be not deleted from Local repo
+5. git rm -f <file>
+   Remove completly from local also
+   
+
+
