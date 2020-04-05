@@ -2,7 +2,7 @@
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 
-<<<<<<< HEAD
+
 ***
 After creating repo on remote i.e github server
 
@@ -29,7 +29,7 @@ Here I'm trying to lear different git command
 6. Commit 
    git commit -m "This is my first commit!"
 7. Branch
-<<<<<<< HEAD
+
    new branch & switch
    git checkout -b <newbranch>
    
